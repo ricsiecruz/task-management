@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ricsiecruz/task-management/static/css/main.f96f07a4.css",
+    "main.js": "/ricsiecruz/task-management/static/js/main.cd79e6df.js",
+    "static/js/592.34b7e3d8.chunk.js": "/ricsiecruz/task-management/static/js/592.34b7e3d8.chunk.js",
+    "index.html": "/ricsiecruz/task-management/index.html",
+    "main.f96f07a4.css.map": "/ricsiecruz/task-management/static/css/main.f96f07a4.css.map",
+    "main.cd79e6df.js.map": "/ricsiecruz/task-management/static/js/main.cd79e6df.js.map",
+    "592.34b7e3d8.chunk.js.map": "/ricsiecruz/task-management/static/js/592.34b7e3d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.cd79e6df.js"
+  ]
+}
